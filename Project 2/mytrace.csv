@@ -1,0 +1,9 @@
+insert,20,200
+insert,10,100
+insert,30,300
+insert,25,250
+search,25
+search,10
+dump
+delete,20
+dump
